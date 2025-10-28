@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background: #f0f0f0;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .banner {
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
